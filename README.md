@@ -1,6 +1,7 @@
 Build a Generatively Pretrained Transformer (GPT)
 
-autoregressive language modeling framework and basics of tensors and PyTorch nn
+autoregressive language modeling framework and basics of tensors and PyTorch nn  
+
 
 
 Building Self-Attention
@@ -20,6 +21,7 @@ No communication across batch dimensions.
 Differences between encoder and decoder blocks.  
 Comparison of attention types: attention, self-attention, and cross-attention.  
 Explanation of scaled self-attention.  
+
 
 
 Building the Transformer   
