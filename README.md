@@ -1,9 +1,9 @@
 Build a Generatively Pretrained Transformer (GPT)
 
 autoregressive language modeling framework and basics of tensors and PyTorch nn  
-
-
-
+  
+  
+  
 Building Self-Attention
 
 Version 1: Introduces self-attention by averaging past context using for loops.  
