@@ -23,8 +23,10 @@ Differences between encoder and decoder blocks.
 Comparison of attention types: attention, self-attention, and cross-attention.  
 Explanation of scaled self-attention.  
 
----
-
+--
+  
+  
+  
 Building the Transformer   
 
 Incorporating a self-attention block into the network.  
